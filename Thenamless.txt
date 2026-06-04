@@ -1,1 +1,8 @@
-
+<!DOCTYPE>
+<html>
+<head>
+<title>Trailblazer.code</title>
+</head>
+<body>
+<p>untuk mengakses trailblazer.code dibutuhkan lisensi</p>
+</body>
